@@ -1,0 +1,3 @@
+let valueNumber=undefined;
+
+console.log(typeof valueNumber);
